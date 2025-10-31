@@ -9,8 +9,10 @@ mathjax: true
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
 <object data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" type="application/pdf" width="650" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a></p></object>
+
 <object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
 
