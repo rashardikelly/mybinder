@@ -7,7 +7,18 @@ mathjax: true
 
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) [@blackgirlscode](https://www.facebook.com/BlackGirlsCodeOrg/) [@normani](https://www.tiktok.com/@normani?lang=en) [@commercegov](https://www.usa.gov/agencies/u-s-department-of-commerce)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:AbU91On7Ll5V-GrorJ9LZA/69186429602/v2" data-did="fc7c20fab03a0dd2c5f6f630bf705e05b9ecc018"  ><a href="https://www.tumblr.com/podaac/69186429602/our-ocean-circulation-at-work-as-shown-by">https://www.tumblr.com/podaac/69186429602/our-ocean-circulation-at-work-as-shown-by</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
+
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
